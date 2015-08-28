@@ -7,10 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<p>The event has been created</p>
 <jsp:useBean id="obj" class="com.vz.Event"></jsp:useBean>
 <%
-
+response.sendRedirect("events.jsp");
 %>
 </body>
 </html>
