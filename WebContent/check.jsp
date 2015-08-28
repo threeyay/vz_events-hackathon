@@ -32,7 +32,7 @@ if (status>0)
 //	session.setAttribute("user",obj);
 //}
 else
-	response.sendRedirect("login.jsp");
+	response.sendRedirect("index.jsp");
 %>
 </body>
 </html>

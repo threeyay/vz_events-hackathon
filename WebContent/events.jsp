@@ -61,7 +61,7 @@
 ResultSet rs = null;
 if(session.getAttribute("user")==null)
 {
-	response.sendRedirect("login.jsp");
+	response.sendRedirect("index.jsp");
 }
 if(session.getAttribute("admin").equals("true"))
 {
