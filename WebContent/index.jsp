@@ -331,7 +331,7 @@ FOOTER
 	
 		<div class="header">
 		<h1>Login Form</h1>
-		<span>Fill out the form below to login to my super awesome imaginary control panel.</span>
+		<span>Login to check the VZ Events Portal</span>
 		</div>
 	
 		<div class="content">
